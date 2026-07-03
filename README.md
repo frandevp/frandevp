@@ -23,8 +23,7 @@
   ---
 
   ## Stats
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frandevp&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=frandevp&theme=dark&hide_border=true)
 
   ---
 
