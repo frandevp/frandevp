@@ -1,4 +1,4 @@
-# Hi, I'm Francesca 👋 · Hola, soy Francesca 👋                     
+# Francesca Lombardo                     
                                                                       
   🇬🇧 [English](#english) · 🇪🇸 [Español](#español)                     
                   
