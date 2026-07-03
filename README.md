@@ -1,4 +1,4 @@
-# Hola, soy Francesca 👋                                                                          
+# Francesca Lombardo                                                                          
    
   Desarrolladora Web Full Stack — graduada en DAW, Madrid.                                          
   Actualmente formándome en desarrollo con IA, Python y hacking ético.
