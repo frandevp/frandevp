@@ -1,11 +1,24 @@
-# Francesca Lombardo                                                                          
-   
-  Desarrolladora Web Full Stack — graduada en DAW, Madrid.                                          
-  Actualmente formándome en desarrollo con IA, Python y hacking ético.
+# Hi, I'm Francesca 👋 · Hola, soy Francesca 👋                     
+                                                                      
+  🇬🇧 [English](#english) · 🇪🇸 [Español](#español)                     
+                  
+  ---                                                                 
+                  
+  ## English
+
+  Full Stack Web Developer — DAW graduate, Madrid.
+  Currently training in AI development, Python and ethical hacking.
 
   ---
 
-  ## Tecnologías
+  ## Español
+
+  Desarrolladora Web Full Stack — graduada en DAW, Madrid.
+  Actualmente formándome en desarrollo con IA, Python y hacking ético.
+
+  ---
+  
+   ## Tecnologías / Tech Stack
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
